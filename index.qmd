@@ -31,7 +31,8 @@ Apesar de ser uma cianobactéria de água doce, *Microcystis* é encontrada e se
 ## Geral
 
 Avaliar as propriedades bio-óticas dos pigmentos das florações de cianobactérias obtidas das imagens de satélite na praia do Cassino como subsídio a balneabilidade.\
-\
+
+
 ## Específicos 
 
 1. Estudar as propriedades bio-óticas dos pigmentos clorofila-a e ficocianinas presentes nas florações de cianobactérias, usando duas técnicas óticas. 
