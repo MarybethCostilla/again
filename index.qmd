@@ -1,5 +1,5 @@
 ---
-title: "projeto"
+title: "index"
 format: html
 editor: visual
 ---
@@ -7,33 +7,30 @@ editor: visual
 ---
 title: "Dinámica espaço-temporal das florações de *Microcystis spp.* (Cyanophyceae) na praia do Cassino: origem e consequencias"
 author: "Marybeth Costilla"
-format: pdf
-editor: visual
-revealjs: 
 ---
+
 # Introdução
 
-  As cianobactérias são organismos procarióticos, capazes de realizar fotossíntese oxigenada e que tem clorofila-a (Vidal et al., 2021). Com cerca de 3 bilhões de anos de origem, desempenharam um papel importante na oxidação da atmosfera da Terra durante processo evolutivo (Huisman et al., 2018).  
-  *Microcystis* é uma cianobactéria da ordem Chroococcales, unicelular formadora de colônias com mucilagem, esférica, com vesículas de gás que permitem sua flutuação (Silva, 2005). Conhecida mundialmente por ser um dos géneros que produz hepatoxinas chamadas microcistinas (MC), que deve seu nome ao ser isolada e descrita por primeira vez da espécie *Microcystis aeruginosa* - uma das espécies de este género – com 100 variantes conhecidas, é a uma das cianotoxinas mais comuns (Sivonen, 2009; Preece et al., 2016).  
-  ![](Microcystis.jpg){.absolute top=200 left=50 width="350" height="300"}  
-  Condições temporárias e sazonais de altas temperaturas, aumento de fósforo total e pH neutros a alcalinos promovem o crescimento desta espécie formando florações (Yunes et al., 1998), sendo relatado como um dos maiores causadores de morte em animais domésticos e selvagens nestas condições (Yunes et al., 1996). A formação de colônias é considerada importante na ecologia de Microcystis porque pela capacidade de flutuação pode resistir águas turbulentas (Xiao et al., 2018), reduzir a pressão do zooplâncton pastor e prover proteção de metais pesados (Wu et al., 2007).  
-  As florações de *Microcystis* e outra cianobactérias nocivas formadoras de florações, conhecidas como Florações de Cianobactérias Nocivas (FCN, ou CyanoHAB’s pelo acrônimo em inglês), tem efeitos nocivos associados a eventos ecológicos e ambientais sérios como redução da claridade da água, contaminação da água potável, aumento de hipóxia e inóxia do fundo aquático, perturbação e alteração das redes tróficas ao serem não comestíveis (Qin et al., 2010). Além disso, elas produzem metabólitos tóxicos que podem causar intoxicações graves em aves, mamíferos e humanos, afetando os sistemas hepatopancreaticos, digestivo, endócrino, dérmico e nervoso (Paerl & Otten, 2013) dependendo do tipo de contato ou/e ingesta, e o tipo de toxina.  
-  
+As cianobactérias são organismos procarióticos, capazes de realizar fotossíntese oxigenada e que tem clorofila-a (Vidal et al., 2021). Com cerca de 3 bilhões de anos de origem, desempenharam um papel importante na oxidação da atmosfera da Terra durante processo evolutivo (Huisman et al., 2018).\
+*Microcystis* é uma cianobactéria da ordem Chroococcales, unicelular formadora de colônias com mucilagem, esférica, com vesículas de gás que permitem sua flutuação (Silva, 2005). Conhecida mundialmente por ser um dos géneros que produz hepatoxinas chamadas microcistinas (MC), que deve seu nome ao ser isolada e descrita por primeira vez da espécie *Microcystis aeruginosa* - uma das espécies de este género -- com 100 variantes conhecidas, é a uma das cianotoxinas mais comuns (Sivonen, 2009; Preece et al., 2016).\  
+![Figure 1](Microcystis.jpg){.absolute top="200" left="50" width="350" height="300"}\
+Condições temporárias e sazonais de altas temperaturas, aumento de fósforo total e pH neutros a alcalinos promovem o crescimento desta espécie formando florações (Yunes et al., 1998), sendo relatado como um dos maiores causadores de morte em animais domésticos e selvagens nestas condições (Yunes et al., 1996). A formação de colônias é considerada importante na ecologia de Microcystis porque pela capacidade de flutuação pode resistir águas turbulentas (Xiao et al., 2018), reduzir a pressão do zooplâncton pastor e prover proteção de metais pesados (Wu et al., 2007).\
+As florações de *Microcystis* e outra cianobactérias nocivas formadoras de florações, conhecidas como Florações de Cianobactérias Nocivas (FCN, ou CyanoHAB's pelo acrônimo em inglês), tem efeitos nocivos associados a eventos ecológicos e ambientais sérios como redução da claridade da água, contaminação da água potável, aumento de hipóxia e inóxia do fundo aquático, perturbação e alteração das redes tróficas ao serem não comestíveis (Qin et al., 2010). Além disso, elas produzem metabólitos tóxicos que podem causar intoxicações graves em aves, mamíferos e humanos, afetando os sistemas hepatopancreaticos, digestivo, endócrino, dérmico e nervoso (Paerl & Otten, 2013) dependendo do tipo de contato ou/e ingesta, e o tipo de toxina.
+
 #Justificação
 
-  Florações de *Microcystis* são predominantes e recorrentes a cada verão na LP e seu estuário. Em 2003, cerca de 30 casos de alergia foram registrados no posto de saúde local por banhistas na praia do Cassino, adjacente à LP, por mais de 12 km de extensão (Silva, 2005). Em 2018, casos semelhantes foram reportados no Posto de Saúde da Praia do Cassino, após o contato com a floração nas águas do mar. Em SLS, diversos casos de alergia e irritação na pele ocorreram com banhistas expostos a presença de *Microcytis* nas praias da LP que foram reportados a professores da FURG residentes e posteriormente ao LCF (registros do Laboratório de Cianobactérias e Ficotoxinas - LCF). Em dezembro de 2022, foram reportadas manchas verdes nas águas da lagoa perto da praia de São Loureço do Sul (São Lourenço repórter, 2023).  
-  Entretanto, coletas *in situ* em grandes massas de água como a LP e suas praias oceânicas adjacentes requerem recursos humanos e financeiros que nem sempre são mantidos e conseguem um monitoramento satisfatório apenas com coletas (Wynne et al., 2011). Técnicas de análise indireta podem ser utilizadas para este fim. A teledetecção (uma delas) utiliza a capacidade da água e de seus componentes de interagir com a luz. Diferentes composições apresentam picos de refletância diferentes, permitindo que águas costeiras, oceânicas e interiores possam ser classificadas e monitoradas por suas características óticas (Spyrakos et al., 2018).  
-  O verão na LP é caracterizado por poucas chuvas e ventos amenos, o que diminui a entrada de água salgada na lagoa, favorecendo as condições de crescimento das florações. Entretanto, quando acontecem chuvas e ventos, estas florações são levadas para fora da lagoa.  
-  Apesar de ser uma cianobactéria de água doce, *Microcystis* é encontrada e se acumula em estuários, como observado na LP (Fujita & Odebrecht, 2007). A presença das toxinas está relacionada à densidade e biomassa das cianobactérias, distribuídas em fases particuladas e dissolvidas no ambiente (Kim et al., 2021). A dominância de *Microcystis* na LP é favorecida pela tolerância do gênero a salinidades (até 5 g.L^-1^; Salomon et al., 2001).
+Florações de *Microcystis* são predominantes e recorrentes a cada verão na LP e seu estuário. Em 2003, cerca de 30 casos de alergia foram registrados no posto de saúde local por banhistas na praia do Cassino, adjacente à LP, por mais de 12 km de extensão (Silva, 2005). Em 2018, casos semelhantes foram reportados no Posto de Saúde da Praia do Cassino, após o contato com a floração nas águas do mar. Em SLS, diversos casos de alergia e irritação na pele ocorreram com banhistas expostos a presença de *Microcytis* nas praias da LP que foram reportados a professores da FURG residentes e posteriormente ao LCF (registros do Laboratório de Cianobactérias e Ficotoxinas - LCF). Em dezembro de 2022, foram reportadas manchas verdes nas águas da lagoa perto da praia de São Loureço do Sul (São Lourenço repórter, 2023).\
+Entretanto, coletas *in situ* em grandes massas de água como a LP e suas praias oceânicas adjacentes requerem recursos humanos e financeiros que nem sempre são mantidos e conseguem um monitoramento satisfatório apenas com coletas (Wynne et al., 2011). Técnicas de análise indireta podem ser utilizadas para este fim. A teledetecção (uma delas) utiliza a capacidade da água e de seus componentes de interagir com a luz. Diferentes composições apresentam picos de refletância diferentes, permitindo que águas costeiras, oceânicas e interiores possam ser classificadas e monitoradas por suas características óticas (Spyrakos et al., 2018).\
+O verão na LP é caracterizado por poucas chuvas e ventos amenos, o que diminui a entrada de água salgada na lagoa, favorecendo as condições de crescimento das florações. Entretanto, quando acontecem chuvas e ventos, estas florações são levadas para fora da lagoa.\
+Apesar de ser uma cianobactéria de água doce, *Microcystis* é encontrada e se acumula em estuários, como observado na LP (Fujita & Odebrecht, 2007). A presença das toxinas está relacionada à densidade e biomassa das cianobactérias, distribuídas em fases particuladas e dissolvidas no ambiente (Kim et al., 2021). A dominância de *Microcystis* na LP é favorecida pela tolerância do gênero a salinidades (até 5 g.L^-1^; Salomon et al., 2001).
 
 #Objetivos
 
-## Geral  
-Avaliar as propriedades bio-óticas dos pigmentos das florações de cianobactérias obtidas das imagens de satélite na praia do Cassino como subsídio a balneabilidade.  
-## Específicos
-1.	Estudar as propriedades bio-óticas dos pigmentos clorofila-a e ficocianinas presentes nas florações de cianobactérias, usando duas técnicas óticas.
-2.	Verificar a presença e procedência das florações de *Microcystis* que alcançam a Praia do Cassino.  
-3.	Determinar a balneabilidade na praia do Cassino, por meio de intervalos de concentração de células de *Microcystis*, usando dados hiperespectrais.
+## Geral
+
+Avaliar as propriedades bio-óticas dos pigmentos das florações de cianobactérias obtidas das imagens de satélite na praia do Cassino como subsídio a balneabilidade.\
+\## Específicos 1. Estudar as propriedades bio-óticas dos pigmentos clorofila-a e ficocianinas presentes nas florações de cianobactérias, usando duas técnicas óticas. 2. Verificar a presença e procedência das florações de *Microcystis* que alcançam a Praia do Cassino.\
+3. Determinar a balneabilidade na praia do Cassino, por meio de intervalos de concentração de células de *Microcystis*, usando dados hiperespectrais.
 
 ```{r}
 
