@@ -1,0 +1,63 @@
+---
+title: "Tarefa"
+format: html
+editor: visual
+---
+
+## Três páginas
+
+[Músicas](Mar.qmd)
+
+[Projeto](index.qmd)
+
+[Tarefa](Tarefa.qmd)
+
+## Link entre páginas
+
+[Músicas](Mar.qmd)
+
+[Link externo](http://localhost:3400/#links-externos)
+
+## Links externos
+
+[Youtube](https://www.youtube.com/watch?v=4j725wScY0E) #Link
+
+## Uma imagem
+
+![Mar](descarga.jpg)
+
+## Uma tabela
+
+| Default | Left | Right | Center |
+|---------|:-----|------:|:------:|
+| 12      | 12   |    12 |   12   |
+| 123     | 123  |   123 |  123   |
+| 1       | 1    |     1 |   1    |
+
+
+
+```{r}
+
+knitr::kable(head(ggplot2::diamonds))
+
+```
+
+
+## Um gráfico
+
+```{r}
+
+#| layout-ncol: 2
+#| fig-cap: 
+#|   - "Speed and Stopping Distances of Cars"
+#|   - "Vapor Pressure of Mercury as a Function of Temperature"
+
+plot(cars)
+plot(pressure)
+```
+
+## Uma fórmula
+
+$$
+SS(λ)= ρ_s (λ)-ρ_s (λ^- )+[ρ_s (λ^- )+ ρ_s (λ^+ )]  (λ+λ^-/λ^+ -λ^- )  
+$$
