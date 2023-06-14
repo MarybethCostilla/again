@@ -45,15 +45,15 @@ Avaliar as propriedades bio-óticas dos pigmentos das florações de cianobacté
 
 ## Três páginas
 
-[Músicas](Mar.qmd)
+[Músicas](Mar.html)
 
-[Projeto](index.qmd)
+[Projeto](index.html)
 
-[Tarefa](Tarefa.qmd)
+[Tarefa](Tarefa.html)
 
 ## Link entre páginas
 
-[Músicas](Mar.qmd)
+[Músicas](Mar.html)
 
 [Link externo](http://localhost:3400/#links-externos)
 
