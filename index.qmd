@@ -55,8 +55,6 @@ Avaliar as propriedades bio-óticas dos pigmentos das florações de cianobacté
 
 [Músicas](Mar.html)
 
-[Link externo](http://localhost:3400/#links-externos)
-
 ## Links externos
 
 [Youtube](https://www.youtube.com/watch?v=4j725wScY0E) #Link
