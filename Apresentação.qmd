@@ -10,27 +10,32 @@ format:
     chalkboard: true
     theme: moon
     logo: logo-furg.png
-    css: logo.css
 ---
 
-:::
-{.reveal .slide-logo}
-  display: block;
-  position: fixed;
-  bottom: unset !important;
-  right: unset !important;
-  top: 5px;
-  left: 12px;
-  height: 100px !important;
-  width: 100x !important;
-  max-width: unset !important;
-  max-height: unset !important;
+## Introdução
+
+::: {.fragment}
+![](ciano.jpg){.absolut top=0 right=150 width="450" height="300"}
+
+Cianobacterias
 :::
 
+::: {.fragment}
+Cianobacterias
+:::
 
-## Slide with speaker notes
+::: {.fragment}
+![](Microcystis.jpg){.absolute top=50 right=50 width="350" height="250"}
+*Microcystis* {.absolute top=50 right=50}
+:::
 
-Slide content
+::: {.fragment}
+Cianobacterias
+:::
+
+::: {.fragment}
+![](mc.png){.absolute bottom=0 right=50 width="500" height="300"}
+:::
 
 ::: {.notes}
 Speaker notes go here.
