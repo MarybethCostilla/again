@@ -15,26 +15,71 @@ format:
 ## Introdução
 
 ::: {.fragment}
-![](ciano.jpg){.absolut top=0 right=150 width="450" height="300"}
+![](ciano.jpg){.fragment width="450" height="300"}
 
-Cianobacterias
-:::
-
-::: {.fragment}
 Cianobacterias
 :::
 
 ::: {.fragment}
 ![](Microcystis.jpg){.absolute top=50 right=50 width="350" height="250"}
-*Microcystis* {.absolute top=50 right=50}
-:::
 
-::: {.fragment}
-Cianobacterias
+*Microcystis*
 :::
 
 ::: {.fragment}
 ![](mc.png){.absolute bottom=0 right=50 width="500" height="300"}
+
+Microcistinas
+:::
+
+## Florações de Cianobacterias Nocivas
+
+::: {.fragment}
+![](FCN.jpg){.absolute top=55 left=10 width="500" height="300"}
+:::
+
+::: {.fragment}
+![](urbanization.jpg){.absolute bottom=0 left=10 width="500" height="300"}
+:::
+
+::: {.fragment}
+![](agri.jpg){.absolute bottom=0 right=10 width="500" height="300"}
+:::
+
+::: {.fragment}
+![](invasive.jpg){.absolute top=55 right=10 width="500" height="300"}
+:::
+
+## Ocurrencias {auto-animate=true}
+
+:::{.fragment .highlight-current-blue}
+Mar Báltico  
+:::
+
+:::{.fragment .highlight-current-blue}
+Istambul, Turquia  
+:::
+
+:::{.fragment .highlight-current-blue}
+Austrália
+:::
+
+:::{.fragment .highlight-current-blue}
+Argentina
+:::
+
+:::{.fragment .highlight-current-blue}
+Uruguai  
+:::
+
+:::{.fragment .highlight-current-blue}
+Brasil
+:::
+
+## {auto-animate=true}
+
+::: {style="margin-top: 200px; font-size: 3em; color: red;"}
+Brasil
 :::
 
 ::: {.notes}
