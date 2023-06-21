@@ -19,19 +19,17 @@ author: "Marybeth Costilla"
   text-align: justify !important
 }
 ```
+
 # Introdução
 
-::: {.justify}
+::: justify
 As cianobactérias são organismos procarióticos, capazes de realizar fotossíntese oxigenada e que tem clorofila-a (Vidal et al., 2021). Com cerca de 3 bilhões de anos de origem, desempenharam um papel importante na oxidação da atmosfera da Terra durante processo evolutivo (Huisman et al., 2018).\
 
 *Microcystis* é uma cianobactéria da ordem Chroococcales, unicelular formadora de colônias com mucilagem, esférica, com vesículas de gás que permitem sua flutuação (Silva, 2005). Conhecida mundialmente por ser um dos géneros que produz hepatoxinas chamadas microcistinas (MC), que deve seu nome ao ser isolada e descrita por primeira vez da espécie *Microcystis aeruginosa* - uma das espécies de este género -- com 100 variantes conhecidas, é a uma das cianotoxinas mais comuns (Sivonen, 2009; Preece et al., 2016). 
 
-
 ::: aside
-![Figure 1](Microcystis.jpg)
-*Microcystis aeruginosa*
+![Figure 1](Microcystis.jpg) *Microcystis aeruginosa*
 :::
-
 
 Condições temporárias e sazonais de altas temperaturas, aumento de fósforo total e pH neutros a alcalinos promovem o crescimento desta espécie formando florações (Yunes et al., 1998), sendo relatado como um dos maiores causadores de morte em animais domésticos e selvagens nestas condições (Yunes et al., 1996). A formação de colônias é considerada importante na ecologia de Microcystis porque pela capacidade de flutuação pode resistir águas turbulentas (Xiao et al., 2018), reduzir a pressão do zooplâncton pastor e prover proteção de metais pesados (Wu et al., 2007).\
 As florações de *Microcystis* e outra cianobactérias nocivas formadoras de florações, conhecidas como Florações de Cianobactérias Nocivas (FCN, ou CyanoHAB's pelo acrônimo em inglês), tem efeitos nocivos associados a eventos ecológicos e ambientais sérios como redução da claridade da água, contaminação da água potável, aumento de hipóxia e inóxia do fundo aquático, perturbação e alteração das redes tróficas ao serem não comestíveis (Qin et al., 2010). Além disso, elas produzem metabólitos tóxicos que podem causar intoxicações graves em aves, mamíferos e humanos, afetando os sistemas hepatopancreaticos, digestivo, endócrino, dérmico e nervoso (Paerl & Otten, 2013) dependendo do tipo de contato ou/e ingesta, e o tipo de toxina.
@@ -56,9 +54,11 @@ Avaliar as propriedades bio-óticas dos pigmentos das florações de cianobacté
 1.  Estudar as propriedades bio-óticas dos pigmentos clorofila-a e ficocianinas presentes nas florações de cianobactérias, usando duas técnicas óticas.
 2.  Verificar a presença e procedência das florações de *Microcystis* que alcançam a Praia do Cassino.\
 3.  Determinar a balneabilidade na praia do Cassino, por meio de intervalos de concentração de células de *Microcystis*, usando dados hiperespectrais.
-
 :::
 
+## Apresentação 
+
+[Apresentação] (Apresentação.html)
 
 # TAREFA
 
