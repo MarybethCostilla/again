@@ -159,6 +159,7 @@ SS(λ)= ρ_s (λ)-ρ_s (λ^- )+[ρ_s (λ^- )+ ρ_s (λ^+ )]  (λ+λ^-/λ^+ -λ^-
 
 Onde + e – indicam uma banda espectral (s) acima o abaixo do comprimento de onda usado como alvo (Wynne et al., 2008).
 
+##
 
 :::{.fragment .highlight-current-blue}
 *Balneabilidade na praia do Cassino*
@@ -170,7 +171,27 @@ Onde + e – indicam uma banda espectral (s) acima o abaixo do comprimento de
 
 ## Cronograma
 
+Semestre 	 II(22)	I (23)	II(23)	I(24)	II(24)	I (25)	II(25)	I(26)
+Revisão bibliográfica	X	X	X	X	X	X	X	X
+Disciplinas	X	X	X	X				
+Estágio docente			X	X				
+Monitoramento	X	X	X	X	X	X		
+Coletas	X	X	X	X	X	X		
+Identificação taxonômica		X		X		X		
+Quantificação de organismos			X	X	X	X	X	
+Determinação de clorofila-a		X		X		X		
+Determinação de ficocianinas		X		X		X		
+Qualificação			X					
+Análises dos dados		X	X	X	X	X	X	
+Submissão de artigos					X		X	
+Defesa								X
+
+
 ## Viabilidade
+
+- “Ocurrence and origin of Microcystis blooms in Cassino Beach, RS, Brazil” a ser submetido na revista Marine and Freshwater Research
+
+- “Balneability of Cassino Beach using hyperspectral data” na Ocean and Coastal Management
 
 ::: {.notes}
 Speaker notes go here.
