@@ -50,7 +50,7 @@ Microcistinas
 ![](invasive.jpg){.absolute top=55 right=10 width="500" height="300"}
 :::
 
-## Ocurrencias {auto-animate=true}
+## Ocurrências {auto-animate=true}
 
 :::{.fragment .highlight-current-blue}
 Mar Báltico  
@@ -81,6 +81,96 @@ Brasil
 ::: {style="margin-top: 200px; font-size: 3em; color: red;"}
 Brasil
 :::
+
+## Imagens de satélites
+
+::: {.column width="40%"}
+![](LP.png){.absolute top=60 leftt=50 width="450" height="500"} 
+:::
+
+## Justificativa
+
+::: {.column width="40%"}
+![](verde.jpg){.absolute top=60 right=50 width="400" height="500"}
+:::
+
+## Hipóteses
+
+“As florações de Microcystis tem origem dentro da LP e chegam pela hidrodinâmica à Praia do Cassino”  
+“É possível fazer um monitoramento com imagens de satélite ao estudar as propriedades bio-óticas das florações usando os pigmentos de cianobactérias”.  
+“É possível determinar a frequência de florações de cianobactérias usando imagens de satélite”.  
+
+##
+
+“As espécies de Microcystis que compõem as florações que chegam na Praia do Cassino são as mesmas que compõem as florações dentro da lagoa”.  
+“É possível criar um algoritmo para determinar pigmentos de cianobactérias em águas continentais e oceânicas e determinar com esses valores o número de células”
+
+## Objetivos
+
+### Geral
+
+:::{.fragment .highlight-current-blue}
+- Avaliar a dinâmica espaço-temporal das florações de Microcystis spp. na praia do Cassino como subsídio a balneabilidade. 
+:::
+
+##
+
+### Especificos
+
+:::{.fragment .highlight-current-blue}
+1.	Estudar as propriedades bio-óticas dos pigmentos clorofila-a e ficocianinas presentes nas florações de cianobactérias, usando duas técnicas óticas.
+:::
+
+:::{.fragment .highlight-current-blue}
+2.	Verificar a presença e procedência das florações de Microcystis que alcançam a Praia do Cassino.
+:::
+
+:::{.fragment .highlight-current-blue}
+3.	Monitorar a balneabilidade na praia do Cassino, por meio de intervalos de concentração de células de Microcystis, usando dados hiperespectrais.
+:::
+
+## Metodologia
+
+:::{.fragment .highlight-current-blue}
+*Observações e coletas amostrais* 
+
+![](amostra.jpg){.absolute bottom=0 left=10 width="400" height="500"}
+:::  
+
+## 
+
+:::{.fragment .highlight-current-blue}
+*Parâmetros físico-químicos*
+:::
+
+:::{.fragment .highlight-current-blue}
+*Determinação de clorofila-a, ficobiliproteínas, número de células e identificação taxonômica.*
+:::
+
+##
+
+:::{.fragment .highlight-current-blue}
+*Imagens de satélite e aplicação do Google Earth Engine AlgaeMAp*
+:::
+
+Para quantificar a presença de cianobactérias em concentrações de cél/mL, será testado o algoritmo de Cyanobacteria Index (CI), desenvolvido por Greene (2022), que usando uma sombra espectral (SS) com uma árvore de decisões, deixa a equação:
+
+SS(λ)= ρ_s (λ)-ρ_s (λ^- )+[ρ_s (λ^- )+ ρ_s (λ^+ )]  (λ+λ^-/λ^+ -λ^- )  Eq. 1
+
+Onde + e – indicam uma banda espectral (s) acima o abaixo do comprimento de onda usado como alvo (Wynne et al., 2008).
+
+
+:::{.fragment .highlight-current-blue}
+*Balneabilidade na praia do Cassino*
+:::
+
+:::{.fragment .highlight-current-blue}
+*Procedimento estatístico*
+:::
+
+## Cronograma
+
+## Viabilidade
 
 ::: {.notes}
 Speaker notes go here.
