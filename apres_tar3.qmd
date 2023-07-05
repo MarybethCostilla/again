@@ -30,3 +30,18 @@ Gustavo Willy Nagel, Daniel Andrade Maciel, Lino Augusto Sander de Carvalho,Vito
 
 
 :::
+
+## 
+
+::: {.column width="40%"}
+
+O primeiro passo da ferramenta de monitoramento de AB é a correção atmosférica, pois as aplicações em água exigem medições confiáveis de reflectância de superfície ao utilizar o SIAC (Satellite Invariant Atmospheric Correction) implementado no GEE. 
+
+O método SIAC utiliza dados de resolução mais baixa derivados dos conjuntos de dados MODIS (Moderate Resolution Imaging Spectroradiometer) MCD43A3 (com resolução espacial de 500 m) para descrever a anisotropia da superfície e o CAMS (Copernicus Atmospheric Monitoring Service) para estimar os parâmetros atmosféricos. 
+
+Os dados do MODIS são mapeados para TOA (Top-of-Atmosphere) para serem comparados com dados de resolução espacial mais baixa, e os dados do CAMS são usados para obter os parâmetros atmosféricos resolvendo um problema de inversão.
+:::
+
+::: {.fragment}
+![](f2.png){.fragment width="450" height="300"}
+:::
