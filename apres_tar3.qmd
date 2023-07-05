@@ -53,3 +53,35 @@ Os dados do MODIS são mapeados para TOA (Top-of-Atmosphere) para serem comparad
 ::: {.fragment}
 ![](f2.png){.absolute top=50 right=50 width="450" height="400"}
 :::
+
+##
+
+::: justify
+
+::: {.column left=0  width="40%"}
+
+As saídas intermediárias de um fluxo de trabalho de processamento de imagens, desde o nível 1 original do Sentinel 2 até as imagens do NDCI. 
+
+::: {.fragment}
+![](f3.png){.absolute top=50 right=50 width="550" height="400"}
+:::
+
+:::{.fragment .highlight-current-blue}
+A imagem original (Figura a) 
+:::
+
+:::{.fragment .highlight-current-blue}
+foi primeiramente mascarada para nuvens (Figura b) 
+:::
+
+:::{.fragment .highlight-current-blue}
+e, em seguida, submetida à correção atmosférica e de brilho, seguida pela aplicação da máscara de água (Figura c).
+:::
+
+:::{.fragment .highlight-current-blue}
+O NDCIsat foi calculado e exportado para a coleção NDCI-daily com uma resolução de 30 m (Figura d).
+:::
+
+:::
+:::
+
