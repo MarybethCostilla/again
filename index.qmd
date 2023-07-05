@@ -6,7 +6,6 @@ format:
     toc-location: left
     toc-depth: 3
     toc-title: Contents
-editor: visual
 ---
 
 ---
@@ -56,7 +55,7 @@ Avaliar as propriedades bio-óticas dos pigmentos das florações de cianobacté
 3.  Determinar a balneabilidade na praia do Cassino, por meio de intervalos de concentração de células de *Microcystis*, usando dados hiperespectrais.
 :::
 
-## Apresentação 
+## Apresentação
 
 [Apresentação] (Apresentação.html)
 

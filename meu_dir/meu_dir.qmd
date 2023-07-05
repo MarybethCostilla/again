@@ -1,0 +1,126 @@
+---
+title: "Spatio-temporal dynamics of *Microcystis spp.* (Cyanophyceae) blooms at Cassino Beach: origin and impact on water quality"
+subtitle: Spatio-temporal dynamics of CyanoHAB's
+author:
+  - name: Marybeth Costilla
+    email: marybeth994@gmail.com
+    affiliations: 
+        - id: some-tech
+          name: Universidade Federal do Rio Grande
+          department: Laboratorio de Cianobactérias e Ficotoxinas
+          address: Street Address
+          city: Rio Grande
+          state: RS
+          postal-code: 96203-900
+    attributes:
+        corresponding: true
+    note: This is the first author footnote.
+  - name: Felipe de Lucia Lobo
+    email: felipelobo@ufpel.br
+    affiliations:
+        - id: another-u
+          name: Universidade Federal de Pelotas
+          department: Enghenaria Hídrica
+          address: Street Address
+          city: Pelotas
+          state: RS
+          postal-code: Postal Code
+    note: |
+      Another author footnote, this is a very long footnote and it should be a really long footnote. But this footnote is not yet sufficiently long enough to make two lines of footnote text.
+  - name: João Sarkis Yunes
+    email: joaosarkis@furg.br
+    affiliations:
+        - ref: another-u
+          name: Universidade Federal do Rio Grande
+          department: Laboratorio de Cianobactérias e Ficotoxinas
+          address: Street Address
+          city: Rio Grande
+          state: RS
+          postal-code: 96203-900
+    note: Yet another author footnote.
+
+abstract: |
+  *Microcystis* é um gênero de cianobactéria mundialmente conhecida por produzir hepatoxinas chamadas microcistinas (MC). Os aspectos nocivos destas florações causam eventos ecológicos e ambientais de grande impacto. Diversos estudos utilizaram imagens de satélite para realizar monitoramento da qualidade de água. Assim, imagens de satélite da Lagoa dos Patos (LP) em condições atmosféricas e hidrológicas favoráveis, identificam no espaço e tempo as florações de *Microcystis* que atingem o oceano. Portanto, o objetivo geral deste projeto é avaliar as respostas bio-óticas das florações de *Microcystis*; aplicar imagens de satélites para localizar e determinar a região de origem da espécie que atingem a praia do Cassino, estimar o conteúdo de toxinas na água e o risco à balneabilidade. Serão feitas amostragens em pontos estratégicos da saída dos Molhes ao oceano e e na praia do Cassino, para avaliar concentrações de pigmentos, número de células e identificação taxonômica. Se processarão imagens de satélite obtidas do sensor OLCI no Sentinel-3, para localizar as florações e determinar a sua origem no tempo e espaço. Além, se estimará o risco a balneabilidade da praia do Cassino usando correlações de concentrações dos pigmentos e número de células. Destacando que estas florações ocorrem próximos à os cultivos de camarões, mariscos e peixes (estação de maricultura da FURG), que por bioacumulação de cianotoxinas representam um risco por consumo a moradores e turistas. Se espera, estabelecer uma concentração de clorofila-a para balneabilidade baseado nos limites estabelecidos na CONAMA 357 e a Organização Mundial da Saúde (OMS) para águas de recreação.
+keywords: 
+  - AlgaeMAp
+  - cianobactérias nocivas
+  - ficocianina, pigmentos
+  - sensoriamento remoto
+date: last-modified
+bibliography: bibliography.bib
+format:
+  elsevier-pdf:
+    keep-tex: true
+    journal:
+      name: Journal Name
+      formatting: preprint
+      model: 3p
+      cite-style: super
+---
+
+Please make sure that your manuscript follows the guidelines in the 
+Guide for Authors of the relevant journal. It is not necessary to 
+typeset your manuscript in exactly the same way as an article, 
+unless you are submitting to a camera-ready copy (CRC) journal.
+
+For detailed instructions regarding the elsevier article class, see   <https://www.elsevier.com/authors/policies-and-guidelines/latex-instructions>
+
+# Bibliography styles
+
+Here are two sample references:  @Feynman1963118 @Dirac1953888.
+
+By default, natbib will be used with the `authoryear` style, set in `classoption` variable in YAML. 
+You can sets extra options with `natbiboptions` variable in YAML header. Example 
+
+```
+natbiboptions: longnamesfirst,angle,semicolon
+```
+
+There are various more specific bibliography styles available at
+<https://support.stmdocs.in/wiki/index.php?title=Model-wise_bibliographic_style_files>. 
+To use one of these, add it in the header using, for example, `biblio-style: model1-num-names`.
+
+## Using CSL 
+
+If `cite-method` is set to `citeproc` in `elsevier_article()`, then pandoc is used for citations instead of `natbib`. In this case, the `csl` option is used to format the references. By default, this template will provide an appropriate style, but alternative `csl` files are available from <https://www.zotero.org/styles?q=elsevier>. These can be downloaded
+and stored locally, or the url can be used as in the example header.
+
+# Equations
+
+Here is an equation:
+$$ 
+  f_{X}(x) = \left(\frac{\alpha}{\beta}\right)
+  \left(\frac{x}{\beta}\right)^{\alpha-1}
+  e^{-\left(\frac{x}{\beta}\right)^{\alpha}}; 
+  \alpha,\beta,x > 0 .
+$$
+
+Inline equations work as well: $\sum_{i = 2}^\infty\{\alpha_i^\beta\}$
+
+# Figures and tables
+
+@fig-meaningless is generated using an R chunk.
+
+```{r}
+#| label: fig-meaningless
+#| fig-cap: A meaningless scatterplot
+#| fig-width: 5
+#| fig-height: 5
+#| fig-align: center
+#| out-width: 50%
+#| echo: false
+plot(runif(25), runif(25))
+```
+
+# Tables coming from R
+
+Tables can also be generated using R chunks, as shown in @tbl-simple example.
+
+```{r}
+#| label: tbl-simple
+#| tbl-cap: Caption centered above table
+#| echo: true
+knitr::kable(head(mtcars)[,1:4])
+```
+
+# References {-}
