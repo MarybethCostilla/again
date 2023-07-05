@@ -113,3 +113,10 @@ plot(pressure)
 $$
 SS(λ)= ρ_s (λ)-ρ_s (λ^- )+[ρ_s (λ^- )+ ρ_s (λ^+ )]  (λ+λ^-/λ^+ -λ^- )  
 $$
+
+# TAREFAS
+
+[Tarefa 3](tarefa3.html)
+
+[Apresentação](apres_tar3.html)
+

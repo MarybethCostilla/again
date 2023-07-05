@@ -1,0 +1,32 @@
+---
+format: 
+  revealjs: 
+    theme: moon
+    smaller: true
+    transition: slide
+    slide-number: true
+    chalkboard: true
+    logo: logo-furg.png
+engine: knitr
+---
+
+## "AlgaeMAp: Algae Bloom Monitoring Application para águas continentais em America Latina" 
+
+
+![](spalgae.png){.absolute top=210 right=0 width="500" height="450"}
+
+::: {.column width="40%"}
+
+<br>  
+
+<br>  
+
+Felipe De Lucia Lobo
+Universidade Federal do Pelotas
+
+<br>
+
+Gustavo Willy Nagel, Daniel Andrade Maciel, Lino Augusto Sander de Carvalho,Vitor Souza Martins, Cláudio Clemente Faria Barbosa, and Evlyn Márcia Leão de Moraes Novo
+
+
+:::
