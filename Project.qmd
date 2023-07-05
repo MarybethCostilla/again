@@ -1,0 +1,121 @@
+---
+format: 
+  revealjs: 
+    theme: moon
+    smaller: true
+    transition: slide
+    slide-number: true
+    chalkboard: true
+    logo: logo-furg.png
+engine: knitr
+---
+
+## "Spatio-temporal dynamics of *Microcystis spp.* (Cyanophyceae) blooms at Cassino Beach: origin and impact on water quality" 
+
+
+![](Lagoa_dos_Patos.jpg){.absolute top=210 right=0 width="450" height="550"}
+
+
+::: {.column width="50%"}
+
+<br>  
+
+<br>  
+
+**Marybeth Costilla**  
+Ph.D. candidate in the Biological Oceanography Graduate Program  
+
+<br>
+
+Advisor: João Sarkis Yunes
+
+Co-advisor: Felipe de Lucia Lobo 
+
+:::
+
+
+## Introduction
+
+::: {.fragment}
+![](ciano.jpg){.fragment width="450" height="300"}
+
+Cyanobacteria
+:::
+
+::: {.fragment}
+![](Microcystis.jpg){.absolute top=50 right=50 width="400" height="300"}
+
+*Microcystis*
+:::
+
+::: {.fragment}
+![](mc.png){.absolute bottom=0 right=50 width="500" height="300"}
+
+Microcystins
+:::
+
+## Harmful Cyanobacterial Blooms (CyanoHAB's)
+
+::: {.fragment}
+![](FCN.jpg){.absolute top=55 left=10 width="500" height="300"}
+:::
+
+::: {.fragment}
+![](urbanization.jpg){.absolute bottom=0 left=10 width="500" height="300"}
+:::
+
+::: {.fragment}
+![](agri.jpg){.absolute bottom=0 right=10 width="500" height="300"}
+:::
+
+::: {.fragment}
+![](invasive.jpg){.absolute top=55 right=10 width="500" height="300"}
+:::
+
+## {auto-animate=true}
+
+::: {style="margin-top: 200px; font-size: 3em; color: red;"}
+Patos  
+Lagoon
+:::
+
+![](Lagoa_dos_Patos.jpg){.absolute top=0 right=0 width="550" height="650"}
+
+## Satellite Images
+
+::: {.column width="40%"}
+![](LP.png){.absolute top=60 leftt=50 width="500" height="600"} 
+:::
+
+
+::: {.fragment}
+![](verde.jpg){.absolute top=60 right=50 width="470" height="600"}
+:::
+
+## Objectives
+
+General 
+
+:::{.fragment .highlight-current-blue}
+- Evaluate the spatial-temporal dynamics of *Microcystis spp.* blooms on Cassino beach.
+:::
+
+Specifics
+
+:::{.fragment .highlight-current-blue}
+- Study the bio-optical properties of the pigments chlorophyll-a and phycocyanins present in cyanobacterial blooms.
+:::
+
+:::{.fragment .highlight-current-blue}
+- Determine Cassino beach bating suitability by using satellite images to monitor the origin and movements of *Microcystis* blooms.
+:::
+
+:::{.fragment .highlight-current-blue}
+- Quantify cyanobacterial pigments in continental and oceanic waters and correlate them with cell numbers.
+:::
+
+##
+
+### Thank you so much
+
+![](mar.jpg){.absolute width="500" height="500"}
