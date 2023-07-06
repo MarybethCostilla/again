@@ -8,15 +8,16 @@ format:
     toc-location: left
     toc-depth: 3
     toc-title: Contents
+engine: knitr 
 ---
 
 ## **Quem sou?**
 
-Sou venezuelana formada em Biologia (Ecologia) na Universidade Central de Venezuela (UCV), mestre em Oceanografia Biológica pela Universidade Federal do Rio Grande (PPGOB/FURG), trabalhando com macroalgas marinhas, fitoplâncton e cianobactérias. Atualmente sou doutoranda do PPGOB/FURG, trabalhando com emfoque de sensoriamento remoto para florações de cianobactérias nocivas (FCN) na Lagoa dos Patos
+Me chamo Marybeth Costilla, sou venezuelana formada em Biologia (Ecologia) na Universidade Central de Venezuela (UCV), mestre em Oceanografia Biológica pela Universidade Federal do Rio Grande (PPGOB/FURG), trabalhando com macroalgas marinhas, fitoplâncton e cianobactérias. Atualmente sou doutoranda do PPGOB/FURG, trabalhando com emfoque de sensoriamento remoto para florações de cianobactérias nocivas (FCN) na Lagoa dos Patos
 
 ![Participação recente no XX Simpósio Brasileiro de Sensoriamento Remoto](Mary.jpg){fig-align="center"}
 
-## **Projeto em andamento**
+# **Projeto em andamento**
 
 ```{css, echo = FALSE}
 .justify {
@@ -24,7 +25,7 @@ Sou venezuelana formada em Biologia (Ecologia) na Universidade Central de Venezu
 }
 ```
 
-# "Dinámica espaço-temporal das florações de *Microcystis spp.* (Cyanophyceae) na praia do Cassino: origem e consequências"
+## "Dinámica espaço-temporal das florações de *Microcystis spp.* (Cyanophyceae) na praia do Cassino: origem e consequências"
 
 Um pequeno resumo
 

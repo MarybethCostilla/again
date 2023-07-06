@@ -1,117 +1,25 @@
 ---
-title: "Red1"
-format: html
-editor: visual
+title: "Música para dançar e cantar"
+format: 
+  html:
+    theme:
+      light: minty
+      dark: darkly
 ---
 
-# El mar
+# Meus artistas favoritos
 
-Yeah, Ozuna
-Se pierde en la arena y el mar ah ah ah
-Estaré soñando yo
-Se ve tan tropical
-El sol está que quema quiero más, quiero más
-Le dije baby qué pasó
-Pal agua que hace calor
-
-
-Se pierde en la arena y el mar yeah ah ah ah
-Estaré soñando yo
-Se ve tan tropical
-El sol está que quema quiero más, quiero más
-Le dije baby qué pasó
-Pal agua que hace calor eh eh
-
-
-Gimme more, Gimme more
-Tell me you want this wet sign
-Dímelo, Dímelo
-Kiss my skin I won't tell lies
-Lucky son of a gun
-I give you a no stress life
-Vacays you never been
-Whenever you want
-Boy I need you like a vacay
-Need you like I need you like I eh eh
-Cuz we just keep on drinking like we straight from the sea
-Wet, got a big p**** like my man ain't drippin'
-If you f*****' with me then you're fancy living
-Mini jean skirt with the crop top fitted
-Tell me he don't like when I got panties with it
-Long hair, wet wave, Pantene in it
-Big bag, wallet got mad cheeze in it
-I don't need a ticket it cuz I'm passed these bitches
-Get it passed these bitches, get it passed these bitches like
-
-
-Se pierde en la arena y el mar ah ah ah
-Estaré soñando yo
-Se ve tan tropical
-El sol está que quema quiero más, quiero más
-Le dije baby qué pasó
-Pal agua que hace calor
-
-
-Se pierde en la arena y el mar yeah ah ah ah
-Estaré soñando yo
-Se ve tan tropical
-El sol está que quema quiero más
-Le dije baby qué pasó
-Pal agua que hace calor eh eh
-
-
-Algo natural, no tiene compe
-Donde ella llega siempre rompe
-Prende algo que quiere quemar
-Dolores olvidar
-Hoy quiere salir, la calle la espera
-
-
-I love the way that you smile
-I love the way that you smell
-I love the faces you make when you storytell
-I love the way that you are
-I love the things that you do
-The things that you do when you think I ain't watching you
-
-
-Se pierde en la arena y el mar ah ah ah
-Estaré soñando yo
-Se ve tan tropical
-El sol está que quema quiero más, quiero más
-Le dije baby qué pasó
-Pal agua que hace calor
-
-
-Se pierde en la arena y el mar yeah ah ah ah
-Estaré soñando yo
-Se ve tan tropical
-El sol está que quema quiero más, quiero más
-Le dije baby qué pasó
-Pal agua que hace calor eh eh
-
-
-Woah yeah eh "el negrito ojos claros" Ozuna
-Dynell, Hi Music Hi flow
-Hyde El Químico
-Dímelo Gotay
-
-![Doja Cat](doj cat.jpg){.absolute top="200" left="50" width="350" height="300"}  
-
-
-## Azul
-
-
-
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+- Super Junior
+  - Yesung (solista)
+  - K.R.Y.
+  - D&E
+- VAV
+- Melim
+- Marilia Mendoça
+- The Weeknd
+- Harry Styles
+- Kendji Girac
+- Il Volo
+- Maria Becerra
+- Karol G
+- Morat

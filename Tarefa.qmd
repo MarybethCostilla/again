@@ -1,30 +1,24 @@
 ---
-title: "Tarefa"
+title: "Minha vida como esportista"
 format: html
-editor: visual
+link-external-newwindow: true
 ---
 
-## Três páginas
+# Três páginas e link entre elas
 
-[Músicas](Mar.qmd)
+[Meu estilo de música](Mar.html)
 
-[Projeto](index.qmd)
+[Vida científica](index.html)
 
-[Tarefa](Tarefa.qmd)
+[Vida esportista](Tarefa.html)
 
-## Link entre páginas
+# Links externos
 
-[Músicas](Mar.qmd)
+[Minha Playlist... É misturada](https://music.youtube.com/playlist?list=PLJ2gPRtHhM2HPjFHdJWOfig80VeP6DzTq&feature=share)
 
-[Link externo](http://localhost:3400/#links-externos)
+# Uma imagen, mais que suficiente 
 
-## Links externos
-
-[Youtube](https://www.youtube.com/watch?v=4j725wScY0E) #Link
-
-## Uma imagem
-
-![Mar](descarga.jpg)
+![Pole Dancer](pole.jpeg)
 
 ## Uma tabela
 
@@ -53,7 +47,7 @@ plot(cars)
 plot(pressure)
 ```
 
-## Uma fórmula
+## Uma fórmula, a favorita do projeto
 
 $$
 SS(λ)= ρ_s (λ)-ρ_s (λ^- )+[ρ_s (λ^- )+ ρ_s (λ^+ )]  (λ+λ^-/λ^+ -λ^- )  
