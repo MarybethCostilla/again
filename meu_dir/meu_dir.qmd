@@ -14,7 +14,7 @@ author:
           postal-code: 96203-900
     attributes:
         corresponding: true
-    note: This is the first author footnote.
+    note: 
   - name: Felipe de Lucia Lobo
     email: felipelobo@ufpel.br
     affiliations:
@@ -26,7 +26,6 @@ author:
           state: RS
           postal-code: Postal Code
     note: |
-      Another author footnote, this is a very long footnote and it should be a really long footnote. But this footnote is not yet sufficiently long enough to make two lines of footnote text.
   - name: João Sarkis Yunes
     email: joaosarkis@furg.br
     affiliations:
@@ -37,14 +36,15 @@ author:
           city: Rio Grande
           state: RS
           postal-code: 96203-900
-    note: Yet another author footnote.
+    note: 
 
 abstract: |
   *Microcystis* é um gênero de cianobactéria mundialmente conhecida por produzir hepatoxinas chamadas microcistinas (MC). Os aspectos nocivos destas florações causam eventos ecológicos e ambientais de grande impacto. Diversos estudos utilizaram imagens de satélite para realizar monitoramento da qualidade de água. Assim, imagens de satélite da Lagoa dos Patos (LP) em condições atmosféricas e hidrológicas favoráveis, identificam no espaço e tempo as florações de *Microcystis* que atingem o oceano. Portanto, o objetivo geral deste projeto é avaliar as respostas bio-óticas das florações de *Microcystis*; aplicar imagens de satélites para localizar e determinar a região de origem da espécie que atingem a praia do Cassino, estimar o conteúdo de toxinas na água e o risco à balneabilidade. Serão feitas amostragens em pontos estratégicos da saída dos Molhes ao oceano e e na praia do Cassino, para avaliar concentrações de pigmentos, número de células e identificação taxonômica. Se processarão imagens de satélite obtidas do sensor OLCI no Sentinel-3, para localizar as florações e determinar a sua origem no tempo e espaço. Além, se estimará o risco a balneabilidade da praia do Cassino usando correlações de concentrações dos pigmentos e número de células. Destacando que estas florações ocorrem próximos à os cultivos de camarões, mariscos e peixes (estação de maricultura da FURG), que por bioacumulação de cianotoxinas representam um risco por consumo a moradores e turistas. Se espera, estabelecer uma concentração de clorofila-a para balneabilidade baseado nos limites estabelecidos na CONAMA 357 e a Organização Mundial da Saúde (OMS) para águas de recreação.
 keywords: 
   - AlgaeMAp
   - cianobactérias nocivas
-  - ficocianina, pigmentos
+  - ficocianina 
+  - pigmentos
   - sensoriamento remoto
 date: last-modified
 bibliography: bibliography.bib
@@ -58,12 +58,24 @@ format:
       cite-style: super
 ---
 
-Please make sure that your manuscript follows the guidelines in the 
-Guide for Authors of the relevant journal. It is not necessary to 
-typeset your manuscript in exactly the same way as an article, 
-unless you are submitting to a camera-ready copy (CRC) journal.
+# Introdução
 
-For detailed instructions regarding the elsevier article class, see   <https://www.elsevier.com/authors/policies-and-guidelines/latex-instructions>
+Florações de Cianoctérias Nocivas (FCN, ou CyanoHAB’s pelo acrônimo em inglês) causam efeitos ambientais e ecológicos nocivos como redução da transparência da água, contaminação da água potável, aumento de hipóxia e anoxia do fundo aquático, perturbação e alteração das redes tróficas (Qin et al., 2010). Além disso, seus metabólitos tóxicos (cianotoxinas) causam intoxicações graves em aves e mamíferos (inclusive humanos), afetando os sistemas digestivo, endócrino, dérmico e nervoso dependendo do tipo de contato ou/e quantidade ingerida (Paerl & Otten, 2013).
+As FCN estão relacionadas a distúrbios ecológicos causados pela urbanização, atividades agrícolas e espécies invasivas (Bykova et al., 2006). Combinadas com mudanças climáticas, estas florações aumentaram em intensidade, frequência e distribuição geográfica, nos últimos anos (Carey et al., 2012; Paerl & Huisman, 2009; Paerl & Paul, 2012; Visser et al., 2016). Resultando em custos econômicos relacionados ao tratamento da água, turismo, recreação e desvalorização das propriedades (Hamilton et al., 2014). Com isto, atividades aquáticas recreativas são realizadas em áreas propensas a florações de cianobactérias. A falta de opções alternativas leva as pessoas a tolerar condições desencorajadoras em termos visuais e olfativos  (Chorus & Testai, 2021).
+
+
+# Metodologia
+
+## Área de Estudo
+A Lagoa dos Patos (LP), localizada entre as latitudes 30º12’ a 32º12’S, 50º40’a 52º15’W, possui uma extensão de 250 km e largura média de 40 km, margeando inúmeras cidades e balneários do estado do Rio Grande do Sul (Möller et al., 2001). Tem influência expressiva na zona costeira adjacente, aportando à capa superficial (capa de água em contato com o ar, entre 0 a 1 cm de água), uma variedade de espécies fitoplanctónicas. 
+A laguna está conectada ao Oceano Atlântico em sua porção sul por um canal de 700m de largura (Bitencourt et al., 2020). O estuário da LP tem morfologia do tipo estrangulado e é influenciada por uma micro-maré (Möller et al., 2001).
+
+## Observações e coletas amostrais 
+Entre os próximos meses de verão entre os anos de 2023-2025, as florações de cianobactérias serão monitoradas na LP através do Programa AlgaeMAp (Lobo et al. 2021).  As florações serão monitoradas in situ em 3 das praias da região de São Lourenço por uma equipe de apoio vinculada na FURG-Campus São Lourenço, diariamente por observação, baseados em presencia e ausência em 5 pontos. 
+Uma vez confirmada o alerta da presença da floração nas praias de  SLS, se procederá ao monitoramento aproximadamente 2 dias após este alerta, percorrendo os 18 km na praia Cassino, entre os Molhes e o Navio Altair, uma vez que modelos já construídos para sedimentos finos e partículas flutuantes (que simulam florações de cianobactérias) indicam que a(o)s mesma(o)s são exportadas da LP durante períodos de ventos do Norte, sendo acumuladas na praia de Cassino (Calliari et al., 2008; Canever, 2021). Simultaneamente será examinado/confirmado esse deslocamento ao Sul, por meio do uso de imagens de satélites Sentinel-3.
+As amostragens estão previstas para ocorrer entre os anos de 2023 a 2025, durante os meses de dezembro a março (verão) e nos meses de junho a setembro (inverno), considerando este último período como controle de meses sem floração. No total se contará com 7 estações de amostragem: 4 estações (a bordo da lancha) nos molhes e fora deste, na direção ao oceano na boca dos molhes,  na saída do molhes e duas 2 oceanicas e 3 coletas na praia do Cassino com veículo terrestre (Figura 1). 
+
+![Figura 1.Lagoa dos Patos](Lagoa_dos_Patos.jpg){width=50%}
 
 # Bibliography styles
 
@@ -87,15 +99,11 @@ and stored locally, or the url can be used as in the example header.
 
 # Equations
 
-Here is an equation:
-$$ 
-  f_{X}(x) = \left(\frac{\alpha}{\beta}\right)
-  \left(\frac{x}{\beta}\right)^{\alpha-1}
-  e^{-\left(\frac{x}{\beta}\right)^{\alpha}}; 
-  \alpha,\beta,x > 0 .
+Para quantificar a presença de cianobactérias em concentrações de cél/mL, será testado o algoritmo de Cyanobacteria Index (CI), desenvolvido por Greene (2022), que usando uma sombra espectral (SS) com uma árvore de decisões, deixa a equação:
 $$
-
-Inline equations work as well: $\sum_{i = 2}^\infty\{\alpha_i^\beta\}$
+SS(λ)= ρ_s (λ)-ρ_s (λ^- )+[ρ_s (λ^- )+ ρ_s (λ^+ )]  (λ+λ^-/λ^+ -λ^- )  
+$$
+Onde + e – indicam uma banda espectral (λs) acima o abaixo do comprimento de onda usado como alvo (Wynne et al., 2008
 
 # Figures and tables
 
