@@ -79,7 +79,7 @@ As amostragens estão previstas para ocorrer entre os anos de 2023 a 2025, duran
 
 # Bibliography styles
 
-Here are two sample references:  @Feynman1963118 @Dirac1953888.
+Here are two sample references:  @Feynman1963118 @qin.
 
 By default, natbib will be used with the `authoryear` style, set in `classoption` variable in YAML. 
 You can sets extra options with `natbiboptions` variable in YAML header. Example 

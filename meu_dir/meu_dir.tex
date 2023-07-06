@@ -262,7 +262,7 @@ nocivas \sep ficocianina \sep pigmentos \sep
     sensoriamento remoto
 \end{keyword}
 \end{frontmatter}
-    \ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[enhanced, interior hidden, breakable, borderline west={3pt}{0pt}{shadecolor}, frame hidden, boxrule=0pt, sharp corners]}{\end{tcolorbox}}\fi
+    \ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[breakable, borderline west={3pt}{0pt}{shadecolor}, sharp corners, enhanced, boxrule=0pt, interior hidden, frame hidden]}{\end{tcolorbox}}\fi
 
 \hypertarget{introduuxe7uxe3o}{%
 \section{Introdução}\label{introduuxe7uxe3o}}
@@ -344,8 +344,7 @@ terrestre (Figura 1).
 \hypertarget{bibliography-styles}{%
 \section{Bibliography styles}\label{bibliography-styles}}
 
-Here are two sample references: \citet{Feynman1963118}
-\citet{Dirac1953888}.
+Here are two sample references: \citet{Feynman1963118} \citet{qin}.
 
 By default, natbib will be used with the \texttt{authoryear} style, set
 in \texttt{classoption} variable in YAML. You can sets extra options
