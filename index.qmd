@@ -1,5 +1,6 @@
 ---
-title: "Marybeth Costilla"
+title: "Reprodutibilidade Científica no R"
+author: "Marybeth Costilla"
 Disciplina: "Reprodutibilidade Científica no R - Professor: Maurício Camargo"
 format: 
   html:
@@ -11,13 +12,11 @@ format:
 
 ## **Quem sou?**
 
-Sou venezuelana formada em Biologia (Ecologia) na Universidade Central de Venezuela (UCV), mestre em Oceanografia Biológica pela Universidade Federal do Rio Grande (PPGOB/FURG), trabalhando com macroalgas marinhas, fitoplâncton e cianobactérias. Atualmente sou doutoranda do PPGOB/FURG, trabalhando com emfoque de sensoramento remoto para florações de cianobactérias nocivas (FCN) na Lagoa dos Patos
+Sou venezuelana formada em Biologia (Ecologia) na Universidade Central de Venezuela (UCV), mestre em Oceanografia Biológica pela Universidade Federal do Rio Grande (PPGOB/FURG), trabalhando com macroalgas marinhas, fitoplâncton e cianobactérias. Atualmente sou doutoranda do PPGOB/FURG, trabalhando com emfoque de sensoriamento remoto para florações de cianobactérias nocivas (FCN) na Lagoa dos Patos
+
+![Participação recente no XX Simpósio Brasileiro de Sensoriamento Remoto](Mary.jpg){fig-align="center"}
 
 ## **Projeto em andamento**
----
-title: "Dinámica espaço-temporal das florações de *Microcystis spp.* (Cyanophyceae) na praia do Cassino: origem e consequências"
-author: "Marybeth Costilla"
----
 
 ```{css, echo = FALSE}
 .justify {
@@ -25,7 +24,9 @@ author: "Marybeth Costilla"
 }
 ```
 
-# Introdução
+# "Dinámica espaço-temporal das florações de *Microcystis spp.* (Cyanophyceae) na praia do Cassino: origem e consequências"
+
+Um pequeno resumo
 
 ::: justify
 
@@ -48,7 +49,7 @@ author: "Marybeth Costilla"
 ![Sentinel-3](olci.jfif) *Sentinel-3*
 :::
 
-![Figure 1. Lagoa dos Patos.Área de estudo](Lagoa_dos_Patos.jpg){fig-align="center"}
+![Lagoa dos Patos.Área de estudo](Lagoa_dos_Patos.jpg){fig-align="center"}
 
 
 # Objetivos do projeto
@@ -64,70 +65,29 @@ Avaliar as propriedades bio-óticas dos pigmentos das florações de cianobacté
 3.  Determinar a balneabilidade na praia do Cassino, por meio de intervalos de concentração de células de *Microcystis*, usando dados hiperespectrais.
 :::
 
-## Apresentações do projeto
+# Apresentações do projeto
 
 [Apresentação em portugués](Apresentacao.html)
 
 [Apresentação em inglés](Project.html)
 
-# TAREFA
+# Tarefas
 
-## Três páginas
+## Tarefa 1
 
-[Músicas](Mar.html)
+[Outra página, outros intereses...](Tarefa.html)
 
-[Projeto](index.html)
+## Tarefa 2 (Meu artigo Elsevier)
 
-[Tarefa](Tarefa.html)
+[Artigo Elsevier](meu_dir.pdf)
 
-## Link entre páginas
+## Tarefa 3 (Trabalho Científico)
 
-[Músicas](Mar.html)
+[Resumo Artigo](tarefa3.html)
 
-## Links externos
+[Apresentação do Artigo](apres_tar3.html)
 
-[Youtube](https://www.youtube.com/watch?v=4j725wScY0E) #Link
+## Tarefa 4 (Bora a modificar ele a JASA?)
 
-## Uma imagem
-
-![Mar](descarga.jpg)
-
-## Uma tabela
-
-| Default | Left | Right | Center |
-|---------|:-----|------:|:------:|
-| 12      | 12   |    12 |   12   |
-| 123     | 123  |   123 |  123   |
-| 1       | 1    |     1 |   1    |
-
-```{r}
-
-knitr::kable(head(ggplot2::diamonds))
-
-```
-
-## Um gráfico
-
-```{r}
-
-#| layout-ncol: 2
-#| fig-cap: 
-#|   - "Speed and Stopping Distances of Cars"
-#|   - "Vapor Pressure of Mercury as a Function of Temperature"
-
-plot(cars)
-plot(pressure)
-```
-
-## Uma fórmula
-
-$$
-SS(λ)= ρ_s (λ)-ρ_s (λ^- )+[ρ_s (λ^- )+ ρ_s (λ^+ )]  (λ+λ^-/λ^+ -λ^- )  
-$$
-
-# TAREFAS
-
-[Tarefa 3](tarefa3.html)
-
-[Apresentação](apres_tar3.html)
+[Artigo em JASA](tarefa4.pdf)
 
