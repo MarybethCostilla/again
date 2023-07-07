@@ -14,7 +14,7 @@ link-external-newwindow: true
 
 # Links externos
 
-[![Instagram](marylu94_qr.jpg)](https://www.instagram.com/marylu94/)
+[![](marylu94_qr.png){width=30%}](https://www.instagram.com/marylu94/)
 
 # Uma imagen, mais que suficiente 
 
