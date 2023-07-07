@@ -80,7 +80,7 @@ Avaliar as propriedades bio-óticas dos pigmentos das florações de cianobacté
 
 ## Tarefa 2 (Meu artigo Elsevier)
 
-[Artigo Elsevier](meu_dir.qmd)
+[Artigo Elsevier](meu_dir.pdf)
 
 ## Tarefa 3 (Trabalho Científico)
 
@@ -90,5 +90,5 @@ Avaliar as propriedades bio-óticas dos pigmentos das florações de cianobacté
 
 ## Tarefa 4 (Bora a modificar ele a JASA?)
 
-[Artigo em JASA](tarefa4.qmd)
+[Artigo em JASA](tarefa4.pdf)
 

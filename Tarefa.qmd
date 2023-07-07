@@ -14,11 +14,14 @@ link-external-newwindow: true
 
 # Links externos
 
-[Minha Playlist... É misturada](https://music.youtube.com/playlist?list=PLJ2gPRtHhM2HPjFHdJWOfig80VeP6DzTq&feature=share)
+[![Instagram](marylu94_qr.jpg)](https://www.instagram.com/marylu94/)
 
 # Uma imagen, mais que suficiente 
 
-![Pole Dancer](pole.jpeg)
+![Pole Dancer](pole.jpeg){width=50%}
+
+[Minha Playlist... É misturada](https://music.youtube.com/playlist?list=PLJ2gPRtHhM2HPjFHdJWOfig80VeP6DzTq&feature=share)
+
 
 ## Uma tabela
 
