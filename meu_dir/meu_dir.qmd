@@ -5,7 +5,7 @@ author:
   - name: Marybeth Costilla
     email: marybeth994@gmail.com
     affiliations: 
-        - id: some-tech
+        - id: mary
           name: Universidade Federal do Rio Grande
           department: Laboratorio de Cianobactérias e Ficotoxinas
           address: Street Address
@@ -24,8 +24,8 @@ author:
           address: Street Address
           city: Pelotas
           state: RS
-          postal-code: Postal Code
-    note: |
+          postal-code: 96110-620
+
   - name: João Sarkis Yunes
     email: joaosarkis@furg.br
     affiliations:
@@ -36,10 +36,9 @@ author:
           city: Rio Grande
           state: RS
           postal-code: 96203-900
-    note: 
 
 abstract: |
-  *Microcystis* é um gênero de cianobactéria mundialmente conhecida por produzir hepatoxinas chamadas microcistinas (MC). Os aspectos nocivos destas florações causam eventos ecológicos e ambientais de grande impacto. Diversos estudos utilizaram imagens de satélite para realizar monitoramento da qualidade de água. Assim, imagens de satélite da Lagoa dos Patos (LP) em condições atmosféricas e hidrológicas favoráveis, identificam no espaço e tempo as florações de *Microcystis* que atingem o oceano. Portanto, o objetivo geral deste projeto é avaliar as respostas bio-óticas das florações de *Microcystis*; aplicar imagens de satélites para localizar e determinar a região de origem da espécie que atingem a praia do Cassino, estimar o conteúdo de toxinas na água e o risco à balneabilidade. Serão feitas amostragens em pontos estratégicos da saída dos Molhes ao oceano e e na praia do Cassino, para avaliar concentrações de pigmentos, número de células e identificação taxonômica. Se processarão imagens de satélite obtidas do sensor OLCI no Sentinel-3, para localizar as florações e determinar a sua origem no tempo e espaço. Além, se estimará o risco a balneabilidade da praia do Cassino usando correlações de concentrações dos pigmentos e número de células. Destacando que estas florações ocorrem próximos à os cultivos de camarões, mariscos e peixes (estação de maricultura da FURG), que por bioacumulação de cianotoxinas representam um risco por consumo a moradores e turistas. Se espera, estabelecer uma concentração de clorofila-a para balneabilidade baseado nos limites estabelecidos na CONAMA 357 e a Organização Mundial da Saúde (OMS) para águas de recreação.
+  *Microcystis* é um gênero de cianobactéria mundialmente conhecida por produzir hepatoxinas chamadas microcistinas (MC). Os aspectos nocivos destas florações causam eventos ecológicos e ambientais de grande impacto. Diversos estudos utilizaram imagens de satélite para realizar monitoramento da qualidade de água. Assim, imagens de satélite da Lagoa dos Patos (LP) em condições atmosféricas e hidrológicas favoráveis, identificam no espaço e tempo as florações de *Microcystis* que atingem o oceano. Portanto, o objetivo geral deste projeto é avaliar as respostas bio-óticas das florações de *Microcystis*; aplicar imagens de satélites para localizar e determinar a região de origem da espécie que atingem a praia do Cassino, estimar o conteúdo de toxinas na água e o risco à balneabilidade. Serão feitas amostragens em pontos estratégicos da saída dos Molhes ao oceano e na praia do Cassino, para avaliar concentrações de pigmentos, número de células e identificação taxonômica. Se processarão imagens de satélite obtidas do sensor OLCI no Sentinel-3, para localizar as florações e determinar a sua origem no tempo e espaço. Além, se estimará o risco a balneabilidade da praia do Cassino usando correlações de concentrações dos pigmentos e número de células. Destacando que estas florações ocorrem próximos à os cultivos de camarões, mariscos e peixes (estação de maricultura da FURG), que por bioacumulação de cianotoxinas representam um risco por consumo a moradores e turistas. Espera-se, estabelecer uma concentração de clorofila-a para balneabilidade baseado nos limites estabelecidos na CONAMA 357 e a Organização Mundial da Saúde (OMS) para águas de recreação.
 keywords: 
   - AlgaeMAp
   - cianobactérias nocivas
@@ -60,8 +59,9 @@ format:
 
 # Introdução
 
-Florações de Cianoctérias Nocivas (FCN, ou CyanoHAB’s pelo acrônimo em inglês) causam efeitos ambientais e ecológicos nocivos como redução da transparência da água, contaminação da água potável, aumento de hipóxia e anoxia do fundo aquático, perturbação e alteração das redes tróficas (Qin et al., 2010) @qin. Além disso, seus metabólitos tóxicos (cianotoxinas) causam intoxicações graves em aves e mamíferos (inclusive humanos), afetando os sistemas digestivo, endócrino, dérmico e nervoso dependendo do tipo de contato ou/e quantidade ingerida (Paerl & Otten, 2013).
-As FCN estão relacionadas a distúrbios ecológicos causados pela urbanização, atividades agrícolas e espécies invasivas (Bykova et al., 2006). Combinadas com mudanças climáticas, estas florações aumentaram em intensidade, frequência e distribuição geográfica, nos últimos anos (Carey et al., 2012; Paerl & Huisman, 2009; Paerl & Paul, 2012; Visser et al., 2016). Resultando em custos econômicos relacionados ao tratamento da água, turismo, recreação e desvalorização das propriedades (Hamilton et al., 2014). Com isto, atividades aquáticas recreativas são realizadas em áreas propensas a florações de cianobactérias. A falta de opções alternativas leva as pessoas a tolerar condições desencorajadoras em termos visuais e olfativos  (Chorus & Testai, 2021).
+Florações de Cianoctérias Nocivas (FCN, ou CyanoHAB’s pelo acrônimo em inglês) causam efeitos ambientais e ecológicos nocivos como redução da transparência da água, contaminação da água potável, aumento de hipóxia e anoxia do fundo aquático, perturbação e alteração das redes tróficas (Qin et al., 2010) @qin. Além disso, seus metabólitos tóxicos (cianotoxinas) causam intoxicações graves em aves e mamíferos (inclusive humanos), afetando os sistemas digestivo, endócrino, dérmico e nervoso dependendo do tipo de contato ou/e quantidade ingerida (Paerl & Otten, 2013) @paerl.  
+
+  As FCN estão relacionadas a distúrbios ecológicos causados pela urbanização, atividades agrícolas e espécies invasivas (Bykova et al., 2006) @bykova. Combinadas com mudanças climáticas, estas florações aumentaram em intensidade, frequência e distribuição geográfica, nos últimos anos (Carey et al., 2012; Paerl & Huisman, 2009; Paerl & Paul, 2012; Visser et al., 2016) @carey @paerl2 @paerl3 @visser. Resultando em custos econômicos relacionados ao tratamento da água, turismo, recreação e desvalorização das propriedades (Hamilton et al., 2014). Com isto, atividades aquáticas recreativas são realizadas em áreas propensas a florações de cianobactérias. A falta de opções alternativas leva as pessoas a tolerar condições desencorajadoras em termos visuais e olfativos  (Chorus & Testai, 2021).
 
 
 # Metodologia
@@ -110,14 +110,14 @@ Onde + e – indicam uma banda espectral (λs) acima o abaixo do comprimento de 
 @fig-meaningless is generated using an R chunk.
 
 ```{r}
-#| label: fig-meaningless
+#| label: lagoa
 #| fig-cap: A meaningless scatterplot
 #| fig-width: 5
 #| fig-height: 5
 #| fig-align: center
 #| out-width: 50%
 #| echo: false
-plot(runif(25), runif(25))
+#| fig-format: Lagoa_dos_Patos.jpg
 ```
 
 # Tables coming from R

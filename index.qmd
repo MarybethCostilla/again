@@ -92,3 +92,21 @@ Avaliar as propriedades bio-óticas dos pigmentos das florações de cianobacté
 
 [Artigo em JASA](tarefa4.pdf)
 
+Uma ajuda para convertir imagens em pdf
+
+```{.r}
+# Instalar y cargar la biblioteca "png"
+install.packages("png")
+library(png)
+
+# Leer la imagen PNG
+img <- readPNG("ruta_de_la_imagen/mi_imagen.png")
+
+# Guardar la imagen en un archivo PDF
+pdf("ruta_del_archivo/mi_imagen.pdf") #Ruta do arquivo onde quer que seja guardada a imagem criada em pdf
+
+plot(1, type = "n", xlim = c(0, 1), ylim = c(0, 1), xlab = "", ylab = "")  # Crear un lienzo en blanco
+rasterImage(img, 0, 0, 1, 1)  # Dibujar la imagen en el lienzo
+dev.off()
+
+```
