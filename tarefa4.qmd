@@ -38,7 +38,7 @@ To meet the need to incorporate satellite remote sensing into the TSI monitoring
 
 
 
-![Consistency comparison in fitting surrogate model in the tidal power example.](spalgae.pdf){#fig-first width=3in}
+![Tiete's Lagoon](spalgae.pdf){#fig-first width=3in}
 
 | one  | two  | three | four | five |
 |------|------|-------|------|------|
