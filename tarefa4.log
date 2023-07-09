@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.5)  9 JUL 2023 08:34
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.5)  9 JUL 2023 08:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -988,45 +988,4 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 6.99925pt on input line 178.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 178.
-(c:/Users/mary/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-) (c:/Users/mary/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 178.
-(c:/Users/mary/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (c:/Users/mary/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
-Overfull \hbox (118.4434pt too wide) in paragraph at lines 178--178
- [][] 
- []
-
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 178.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00046pt on input line 178.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 178.
-[1
-
-] [2] [3]
-
-LaTeX Warning: File `spalgae.pdf' not found on input line 289.
-
-! Unable to load picture or PDF file 'spalgae.pdf'.
-<to be read again> 
-                   }
-l.289 ...idth=3in,height=\textheight]{spalgae.pdf}
-                                                   
-Here is how much of TeX's memory you used:
- 34038 strings out of 477868
- 696607 string characters out of 5820942
- 1930869 words of memory out of 5000000
- 54448 multiletter control sequences out of 15000+600000
- 562648 words of font info for 77 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 90i,11n,120p,1004b,336s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-Output written on tarefa4.pdf (3 pages).
+(c:/Users/mary/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/ams
