@@ -75,7 +75,7 @@ Entre os próximos meses de verão entre os anos de 2023-2025, as florações de
 Uma vez confirmada o alerta da presença da floração nas praias de  SLS, se procederá ao monitoramento aproximadamente 2 dias após este alerta, percorrendo os 18 km na praia Cassino, entre os Molhes e o Navio Altair, uma vez que modelos já construídos para sedimentos finos e partículas flutuantes (que simulam florações de cianobactérias) indicam que a(o)s mesma(o)s são exportadas da LP durante períodos de ventos do Norte, sendo acumuladas na praia de Cassino (Calliari et al., 2008; Canever, 2021). Simultaneamente será examinado/confirmado esse deslocamento ao Sul, por meio do uso de imagens de satélites Sentinel-3.
 As amostragens estão previstas para ocorrer entre os anos de 2023 a 2025, durante os meses de dezembro a março (verão) e nos meses de junho a setembro (inverno), considerando este último período como controle de meses sem floração. No total se contará com 7 estações de amostragem: 4 estações (a bordo da lancha) nos molhes e fora deste, na direção ao oceano na boca dos molhes,  na saída do molhes e duas 2 oceanicas e 3 coletas na praia do Cassino com veículo terrestre (Figura 1). 
 
-![Figura 1.Lagoa dos Patos](Lagoa_dos_Patos.jpg){width=50%}
+![Lagoa dos Patos](Lagoa_dos_Patos.jpg){width=50%}
 
 # Bibliography styles
 
