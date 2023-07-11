@@ -37,7 +37,7 @@ The development of algorithms using remote sensing for Chl-a estimation relies l
 To meet the need to incorporate satellite remote sensing into the TSI monitoring system in Latin American (LA) inland waters, several researchers from several countries are developing Algae Bloom (AB) mapping tools under the support of GEE and Earth Observation Data Science (EO) [22]. This research aims to develop a user-friendly application (GEE App) to retrieve algae bloom-related products towards a monitoring system for inland waters in Latin America. More specifically, the objective is to calibrate and validate predictive algorithms for Chlorophyll-a and Trophic State Index classes using both in situ data and Sentinel-2/MSI data available in Google Earth Engine. Once parametrized, these predictive algorithms were implemented in the GEE App to compute the spatial and temporal variation of Chl-a concentration and TSI classes. This paper gives the theoretical and methodological background supporting the tool’s development and reports the first results of their application to the monitoring of Tietê River Basin, located in the State of São Paulo, Brazil (Figure 1).
 
 
-![Consistency comparison in fitting surrogate model in the tidal power example.](fig1.pdf){#fig-first width=3in}
+![(a) Region of Interest is the Paraná River Water Basin; (b) Tietê River Basin with indication of the sample stations (see Table 1), (c) Detail of Guarapiranga and Billings Reservoirs.](spalgae.pdf){#fig-first width=3in}
 
 | one  | two  | three | four | five |
 |------|------|-------|------|------|
