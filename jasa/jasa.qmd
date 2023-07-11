@@ -1,5 +1,5 @@
 ---
-title: "AlgaeMAp: Algae Bloom Monitoring Application for Inland Waters in Latin America"
+title: "Title"
 format:
   jasa-pdf:
     keep-tex: true  
@@ -8,25 +8,21 @@ format:
   jasa-html: default
 date: last-modified
 author:
-  - name: Felipe de Lucia Lobo
+  - name: Author 1
     acknowledgements: | 
-      CNPq, Capes, INPE
+      The authors gratefully acknowledge _please remember to list all relevant funding sources in the non-anonymized (unblinded) version_.
     affiliations:
-      - name: Federal University of Pelotas
-        department: Department of Technological Development (CDTec)
-  - name: Gustavo Willy Nagel
+      - name: University of XXX
+        department: Department of YYY
+  - name: Author 2
     affiliations:
-      - name: National Institute for Space Research (INPE)
-        department: Remote Sensing Program
+      - name: University of WWW
+        department: Department of ZZZ
 abstract: |
-  Due to increasing algae bloom occurrence and water degradation on a global scale, there is a demand for water quality monitoring systems based on remote sensing imagery. This paper describes the scientific, theoretical, and methodological background for creating a cloud-computing interface on Google Earth Engine (GEE) which allows end-users to access algae bloom related products with high spatial (30 m) and temporal (~5 day) resolution. The proposed methodology uses Sentinel-2 images corrected for atmospheric and sun-glint effects to generate an image collection of the Normalized Difference Chlorophyll-a Index (NDCI) for the entire time-series. NDCI is used to estimate both Chl-a concentration, based on a non-linear fitting model, and Trophic State Index (TSI), based on a tree-decision model classification into five classes. Once the Chl-a and TSI algorithms had been calibrated and validated they were implemented in GEE as an Earth Engine App, entitled Algae Bloom Monitoring Application (AlgaeMAp). AlgaeMAp is the first online platform built within the GEE platform that offers high spatial resolution of water quality parameters. The App benefits from the huge processing capability of GEE that allows any user with internet access to easily extract detailed spatial (30 m) and long temporal Chl-a and TSI information.
+  The text of your abstract. 200 or fewer words.
 keywords:
-  - Google Earth Engine
-  - Sentinel-2
-  - water quality
-  - chlorophyll-a
-  - Trophic State Index
-  - Earth Engine App
+  - 3 to 6 keywords
+  - that do not appear in the title
 bibliography: bibliography.bib  
 ---
 
