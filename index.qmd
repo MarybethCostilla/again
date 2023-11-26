@@ -7,7 +7,7 @@ format:
     toc-location: left
     toc-depth: 3
     toc-title: Conteúdo
-    linkcolor: red
+    linkcolor: blue
     mainfont: georgia
     backgroundcolor: white
 engine: knitr 
