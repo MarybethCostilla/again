@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Marybeth Costilla">
 
-<title>Reprodutibilidade Científica no R</title>
+<title>Marybeth A. Costilla Díaz, MSc</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -77,7 +76,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <div id="quarto-content" class="page-columns page-rows-contents page-layout-article toc-left">
 <div id="quarto-sidebar-toc-left" class="sidebar toc-left">
   <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Contents</h2>
+    <h2 id="toc-title">Conteúdo</h2>
    
   <ul>
   <li><a href="#quem-sou" id="toc-quem-sou" class="nav-link active" data-scroll-target="#quem-sou"><strong>Quem sou?</strong></a></li>
@@ -102,19 +101,14 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Reprodutibilidade Científica no R</h1>
+<h1 class="title">Marybeth A. Costilla Díaz, MSc</h1>
+<p class="subtitle lead">Bióloga Ecologo | Mestre em Oceanografia Biológica</p>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Marybeth Costilla </p>
-          </div>
-  </div>
     
   
     
@@ -123,6 +117,16 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 </header>
 
+<div class="cell">
+<style type="text/css">
+.justify {
+  text-align: justify !important
+}
+</style>
+</div>
+<blockquote class="blockquote">
+<p><strong>BEM VINDO!</strong> | Este é o meu site pessoal e está <strong>em construção</strong>. Aqui, concentrarei informações relacionadas à minha atividade profissional e algumas coisas a mais.</p>
+</blockquote>
 <section id="quem-sou" class="level2">
 <h2 class="anchored" data-anchor-id="quem-sou"><strong>Quem sou?</strong></h2>
 <p>Me chamo Marybeth Costilla, sou venezuelana formada em Biologia (Ecologia) na Universidade Central de Venezuela (UCV), mestre em Oceanografia Biológica pela Universidade Federal do Rio Grande (PPGOB/FURG), trabalhando com macroalgas marinhas, fitoplâncton e cianobactérias. Atualmente sou doutoranda do PPGOB/FURG, trabalhando com emfoque de sensoriamento remoto para florações de cianobactérias nocivas (FCN) na Lagoa dos Patos</p>
@@ -135,13 +139,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </section>
 <section id="projeto-em-andamento" class="level1 page-columns page-full">
 <h1><strong>Projeto em andamento</strong></h1>
-<div class="cell">
-<style type="text/css">
-.justify {
-  text-align: justify !important
-}
-</style>
-</div>
 <section id="dinámica-espaço-temporal-das-florações-de-microcystis-spp.-cyanophyceae-na-praia-do-cassino-origem-e-consequências" class="level2 page-columns page-full">
 <h2 class="anchored" data-anchor-id="dinámica-espaço-temporal-das-florações-de-microcystis-spp.-cyanophyceae-na-praia-do-cassino-origem-e-consequências">“Dinámica espaço-temporal das florações de <em>Microcystis spp.</em> (Cyanophyceae) na praia do Cassino: origem e consequências”</h2>
 <p>Um pequeno resumo</p>
@@ -215,10 +212,11 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>img <span class="ot">&lt;-</span> <span class="fu">readPNG</span>(<span class="st">"ruta_de_la_imagen/mi_imagen.png"</span>)</span>
 <span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="co"># Guardar la imagen en un archivo PDF</span></span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="fu">pdf</span>(<span class="st">"ruta_del_archivo/mi_imagen.pdf"</span>)</span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="fu">plot</span>(<span class="dv">1</span>, <span class="at">type =</span> <span class="st">"n"</span>, <span class="at">xlim =</span> <span class="fu">c</span>(<span class="dv">0</span>, <span class="dv">1</span>), <span class="at">ylim =</span> <span class="fu">c</span>(<span class="dv">0</span>, <span class="dv">1</span>), <span class="at">xlab =</span> <span class="st">""</span>, <span class="at">ylab =</span> <span class="st">""</span>)  <span class="co"># Crear un lienzo en blanco</span></span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="fu">rasterImage</span>(img, <span class="dv">0</span>, <span class="dv">0</span>, <span class="dv">1</span>, <span class="dv">1</span>)  <span class="co"># Dibujar la imagen en el lienzo</span></span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="fu">dev.off</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="fu">pdf</span>(<span class="st">"ruta_del_archivo/mi_imagen.pdf"</span>) <span class="co">#Ruta do arquivo onde quer que seja guardada a imagem criada em pdf</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="fu">plot</span>(<span class="dv">1</span>, <span class="at">type =</span> <span class="st">"n"</span>, <span class="at">xlim =</span> <span class="fu">c</span>(<span class="dv">0</span>, <span class="dv">1</span>), <span class="at">ylim =</span> <span class="fu">c</span>(<span class="dv">0</span>, <span class="dv">1</span>), <span class="at">xlab =</span> <span class="st">""</span>, <span class="at">ylab =</span> <span class="st">""</span>)  <span class="co"># Crear un lienzo en blanco</span></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="fu">rasterImage</span>(img, <span class="dv">0</span>, <span class="dv">0</span>, <span class="dv">1</span>, <span class="dv">1</span>)  <span class="co"># Dibujar la imagen en el lienzo</span></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="fu">dev.off</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </section>
 </section>
 

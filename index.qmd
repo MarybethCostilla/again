@@ -1,15 +1,25 @@
 ---
-title: "Reprodutibilidade Científica no R"
-author: "Marybeth Costilla"
-Disciplina: "Reprodutibilidade Científica no R - Professor: Maurício Camargo"
+title: "Marybeth A. Costilla Díaz, MSc"
+subtitle: "Bióloga Ecologo | Mestre em Oceanografia Biológica"
 format: 
   html:
     toc: true
     toc-location: left
     toc-depth: 3
-    toc-title: Contents
+    toc-title: Conteúdo
+    linkcolor: red
+    mainfont: georgia
+    backgroundcolor: white
 engine: knitr 
 ---
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+> **BEM VINDO!**    |  Este é o meu site pessoal e está **em construção**. Aqui, concentrarei informações relacionadas à minha atividade profissional e algumas coisas a mais.
 
 ## **Quem sou?**
 
@@ -19,11 +29,6 @@ Me chamo Marybeth Costilla, sou venezuelana formada em Biologia (Ecologia) na Un
 
 # **Projeto em andamento**
 
-```{css, echo = FALSE}
-.justify {
-  text-align: justify !important
-}
-```
 
 ## "Dinámica espaço-temporal das florações de *Microcystis spp.* (Cyanophyceae) na praia do Cassino: origem e consequências"
 
